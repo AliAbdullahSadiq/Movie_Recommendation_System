@@ -20,7 +20,7 @@ These datasets are included in the Dataset directory. They are sourced from the 
 
   Clone the repository:
 
-    git clone https://github.com/your-username/movie-recommendation-system.git
+    git clone https://github.com/AliAbdullahSadiq/movie-recommendation-system.git
     cd movie-recommendation-system
 
 Install the required Python packages:
